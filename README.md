@@ -1,4 +1,3 @@
-<p align="center"><a href="https://www.bangzuhri.my.id/" target="_blank"><img src="https://avatars.githubusercontent.com/u/54185113?v=4" width="200"></a></p>
 <p align="center"><a href="https://www.bangzuhri.my.id/" target="_blank">Starter Laravel Project</a></p>
 
 ## Starter Laravel 
@@ -18,4 +17,4 @@ Anda dapat menggunakan akun yang telah dibuat menggunakan data seeder,
 - Password : 1234
   
 
-  ## Semoga Bermanfaat 
+## Semoga Bermanfaat 
